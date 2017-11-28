@@ -1,0 +1,124 @@
+/*--- Main Styles - styles.css ---*/
+
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;  
+}
+
+html {
+	-webkit-text-size-adjust: none; 
+}
+
+body {
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+section {
+	display: block;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left:  auto;
+	width: 50%;
+}
+
+.active {
+	background-color: #5FCF80;
+}
+
+.required {
+	color: #dd0031;
+}
+
+.text-block {
+	max-width: 700px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.text-block h1 {
+	font-size: 3em;
+	text-transform: uppercase;
+	line-height: 1;
+	margin-bottom: 16px !important;
+}
+
+.text-block p {
+	line-height: 2;
+}
+
+.text-block hr {
+	height: 3px;
+	background: #1e90ff;
+	border: 0;
+}
+/*-- Fieldset --*/
+
+fieldset {
+	padding: 1em;
+	border: 2px solid #323232;
+	border-radius: 0.4em;
+}
+
+legend {
+	padding: 0.5em;
+	font-size: 1.2em;
+	color: #fff;
+	border-radius: 2px;
+	background-color: #1e90ff;
+}
+
+label {
+	display: block;
+}
+
+label input {
+	display: block;
+	width: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	padding: 5px;
+	border: 2px solid #323232;
+	border-radius: 3px;
+}
+
+input:focus {
+	box-shadow: 1px 1px 4px (0,0,0,0.5 inset);
+}
+
+textarea {
+	width: 100%;
+	display: block;
+	margin: 0.5em 0;
+	border: 1px solid #323232;
+	border-radius: 3px;
+}
+
+.race-select {
+	display: inline-block;
+	margin-right: 0.5em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+/* Input */
+
+input[type=submit] {
+	display: block;
+	margin-top: 1em;
+	margin-right: auto;
+	margin-left:  auto;
+	padding: 0.5em 3em;
+	font-size: 1em;
+	color: #1e90ff;
+	background-color: #fff;
+	border: 3px solid #1e90ff;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	color: #fff;
+	background-color: #1e90ff;
+	border: 3px solid #1e90ff;
+}
