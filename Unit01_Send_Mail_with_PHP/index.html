@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Unit 01 | Send Mail With PHP</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat">
+<script src="js/main.js"></script>
+</head>
+<body>
+<main>
+	<section>
+	    <form action="processEmail.php" method="POST" enctype="multipart/form-data" name="UtahValley5kregistration">
+			<fieldset>	
+				<legend>Utah Valley Race Registration</legend>
+				<label><span class="required">*</span>First Name:<input type="text" name="firstname" value="" pattern="[a-zA-Z -._}{2,30}" required autofocus ></label>
+				<label><span class="required">*</span>Last Name:<input type="text" name="lastname" value="" pattern="[a-zA-Z -._}{2,30}" required ></label>	
+				<label><span class="required">*</span>Email:<input type="email" name="email" value=""></label>
+				<label><span class="required">*</span>Telephone:<input type="tel" name="telephone" value=""></label>
+				<label><span class="required">*</span>Race:</label>
+				<input class="race-select" type="radio" name="race" value="5k" required>5K<br>
+				<input class="race-select" type="radio" name="race" value="10k">10k<br>
+				<label><span class="required">*</span>T-Shirt Size:</label>
+				<select name="tshirtsize" required>
+					<option value="" disabled selected>[Select Size]</option>
+					<option value="XXS">XXS</option>
+					<option value="XS">XS</option>
+					<option value="S">S</option>
+					<option value="M">M</option>
+					<option value="L">L</option>
+					<option value="XL">XL</option>
+					<option value="XXL">XXL</option>
+				</select>	
+			</fieldset>
+			<input type="submit" value="submit">
+		</form>
+	</section>
+</main>
+</body>
+</html>
