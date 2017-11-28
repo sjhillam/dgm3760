@@ -1,0 +1,73 @@
+/*--- Main Styles - styles.css ---*/
+
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;  
+}
+
+html {
+	-webkit-text-size-adjust: none; 
+}
+
+body {
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+section {
+	display: block;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left:  auto;
+	width: 50%;
+}
+
+/*-- Form --*/
+
+fieldset {
+	padding: 1em;
+	border: 2px solid #323232;
+	border-radius: 0.5em;
+}
+
+legend {
+	padding: 0.5em;
+	font-size: 1.2em;
+	color: #fff;
+	border-radius: 2px;
+	background-color: #ff9900;
+}
+
+label {
+	display: block;
+}
+
+label input {
+	margin-right: 10px;
+}
+
+input:focus {
+	box-shadow: 1px 1px 4px (0,0,0,0.5 inset);
+}
+
+/* Input */
+
+input[type=submit] {
+	display: block;
+	margin-top: 1em;
+	margin-right: auto;
+	margin-left:  auto;
+	padding: 0.5em 3em;
+	font-size: 1em;
+	color: #ff9900;
+	background-color: #fff;
+	border: 3px solid #ff9900;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	color: #fff;
+	background-color: #ff9900;
+	border: 3px solid #ff9900;
+}
