@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Unit 03 | Sending Spam</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat">
+<script src="js/main.js"></script>
+</head>
+<body>
+<nav>
+	<ul>
+		<li><a href="index.html">Newsletter Form</a></li>
+		<li><a href="makeMessage.php">Make Message</a></li>
+	</ul>
+</nav>
+<main>
+	<section>
+		<form action="saveToDatabase.php" method="POST" enctype="multipart/form-data" name="NewsletterSignUp">
+			<fieldset>	
+				<legend>Newsletter</legend>
+				<label><span class="required">*</span>First Name:<input type="text" name="firstname" value="" pattern="[a-zA-Z -._}{2,30}" required autofocus ></label>
+				<label><span class="required">*</span>Last Name:<input type="text" name="lastname" value="" pattern="[a-zA-Z -._}{2,30}" required ></label>	
+				<label><span class="required">*</span>Email:<input type="email" name="email" value=""></label>
+			</fieldset>
+			<input type="submit" value="Sign Up">
+		</form>
+	</section>
+</main>
+</body>
+</html>
