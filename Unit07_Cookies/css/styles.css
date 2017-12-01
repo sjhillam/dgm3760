@@ -1,0 +1,183 @@
+/*--- Main Styles - styles.css ---*/
+
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;  
+}
+
+html {
+	-webkit-text-size-adjust: none; 
+}
+
+body {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+main {
+	margin: 20px 0;
+}
+
+header {
+	margin-bottom: 30px;
+}
+
+article {
+	margin-bottom: 60px !important;
+}
+article h2 {
+	margin: 10px 0 !important;
+}
+article p {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+/* Buttons */
+
+.btn-default {
+	padding: 0.5em;
+	font-size: 1em;
+	border-radius: 3px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.btn-primary {
+	color: #ffab1e;
+	background-color: #fff;
+	border: 3px solid #ffab1e;
+}
+
+.btn-primary:hover {
+	color: #fff;
+	background-color: #e69205;
+	border: 3px solid #e69205;	
+}
+
+.btn-delete {
+	color: #ff4337;
+	background-color: #fff;
+	border: 3px solid #ff4337;
+}
+
+.btn-delete:hover {
+	color: #fff;
+	background-color: #cc1004;
+	border: 3px solid #cc1004
+}
+
+/* Navigation */
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: #ffab1e;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:first-child {
+	padding-left: 0;
+}
+
+nav ul li a:hover {
+	color: #e69205;
+}
+
+/* Headings */
+
+h1 {
+	font-size: 2em;
+	margin: 15px 0;
+}
+
+hr {
+	height: 3px;
+	background: #ffab1e;
+	border: 0;
+}
+
+/*-- Form --*/
+
+fieldset {
+	margin: 25px 0;
+	padding: 1em;
+	border: 2px solid #323232;
+	border-radius: 0.4em;
+}
+
+legend {
+	padding: 0.5em;
+	font-size: 1.2em;
+	color: #fff;
+	border-radius: 2px;
+	background-color: #ffab1e;
+}
+
+label {
+	display: block;
+}
+
+label input {
+	display: block;
+	width: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	padding: 5px;
+	border: 2px solid #323232;
+	border-radius: 3px;
+}
+
+select {
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+}
+
+textarea {
+	display: block;
+	width: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	padding: 5px;
+	border: 2px solid #323232;
+	border-radius: 3px;
+}
+
+input:focus {
+	box-shadow: 1px 1px 4px (0,0,0,0.5 inset);
+}
+
+input[type=submit] {
+	padding: 0.5em 3em;
+	font-size: 1em;
+	color: #ffab1e;
+	background-color: #fff;
+	border: 3px solid #ffab1e;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	color: #fff;
+	background-color: #e69205;
+	border: 3px solid #e69205;
+}
+
+.required {
+	color: #dd0031;
+}
