@@ -1,0 +1,157 @@
+/*--- Main Styles - styles.css ---*/
+
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;  
+}
+
+html {
+	-webkit-text-size-adjust: none; 
+}
+
+body {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+main {
+	margin: 20px 0;
+}
+
+span {
+	color: red;
+	text-decoration: underline;
+}
+/* Navigation */
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: #71c671;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:first-child {
+	margin-left:  0;
+	padding-left: 0;
+}
+
+nav ul li a:hover {
+	color: #3e933e;
+}
+
+/* Headings */
+
+h1 {
+	font-size: 2em;
+	margin: 15px 0;
+}
+
+hr {
+	height: 3px;
+	background: #71c671;
+	border: 0;
+}
+
+/* directory */
+
+.directory-row {
+	padding: 20px 0;
+	border-bottom: 1px solid #eee;
+}
+
+.directory-row h2 {
+	margin-top: 0;
+}
+
+/*-- Form --*/
+
+fieldset {
+	margin: 25px 0;
+	padding: 1em;
+	border: 2px solid #323232;
+	border-radius: 0.4em;
+}
+
+legend {
+	padding: 0.5em;
+	font-size: 1.2em;
+	color: #fff;
+	border-radius: 2px;
+	background-color: #71c671;
+}
+
+label {
+	display: block;
+}
+
+label select {
+	display: inline-block;
+}
+
+label.birthday input {
+	display: inline-block !important;
+	width: 100px;
+}
+
+label input {
+	display: block;
+	width: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	padding: 5px;
+	border: 1px solid #323232;
+	border-radius: 3px;
+}
+
+textarea {
+	display: block;
+	width: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	padding: 5px;
+	border: 1px solid #323232;
+	border-radius: 3px;
+}
+
+input[type=submit] {
+	padding: 0.5em 3em;
+	font-size: 1em;
+	color: #71c671;
+	background-color: #fff;
+	border: 3px solid #71c671;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	color: #fff;
+	background-color: #3e933e;
+	border: 3px solid #3e933e;
+}
+
+/* misc */
+
+.required {
+	color: #dd0031;
+}
+
+.highlight {
+	color: red;
+	font-weight: bold;	
+}

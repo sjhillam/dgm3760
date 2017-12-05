@@ -1,0 +1,289 @@
+[17-Nov-2017 18:20:23 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 17
+[17-Nov-2017 18:22:07 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[17-Nov-2017 19:03:57 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[17-Nov-2017 19:04:00 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[17-Nov-2017 19:04:30 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 36
+[17-Nov-2017 19:07:52 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/index.php on line 36
+[18-Nov-2017 16:10:10 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 18:16:54 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 18:40:59 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 18:41:01 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 18:41:01 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 18:41:01 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 18:52:17 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 36
+[18-Nov-2017 19:06:21 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:06:33 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:06:51 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:06:54 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:06:57 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 19:06:57 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:06:57 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:07:01 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 19:08:01 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:08:08 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:08:17 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:17:49 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:17:50 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 19:17:50 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:17:50 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:17:56 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 19:18:16 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 39
+[18-Nov-2017 19:18:22 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:18:24 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 19:18:24 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:18:24 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:18:31 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:18:36 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:18:37 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 19:18:37 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:18:37 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:18:39 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 19:19:00 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 39
+[18-Nov-2017 19:28:14 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:33:13 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 19:33:13 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:33:13 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:33:14 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:34:24 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:34:26 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 19:34:26 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:34:26 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:34:28 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 19:34:32 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:37:12 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:40:59 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:41:01 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 19:41:03 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 19:41:03 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:41:03 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 19:41:05 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 19:41:14 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 39
+[18-Nov-2017 20:15:39 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:15:45 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:17:00 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:17:18 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:17:23 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:17:23 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:17:23 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:17:26 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 20:20:06 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 39
+[18-Nov-2017 20:23:00 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 20
+[18-Nov-2017 20:23:08 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 20
+[18-Nov-2017 20:23:10 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 20
+[18-Nov-2017 20:23:13 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 20
+[18-Nov-2017 20:23:15 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 20
+[18-Nov-2017 20:28:43 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 20
+[18-Nov-2017 20:28:45 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 20
+[18-Nov-2017 20:28:51 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 20
+[18-Nov-2017 20:30:37 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:30:37 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:30:37 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:30:40 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 20:30:54 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[18-Nov-2017 20:32:00 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:32:02 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:32:02 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:32:02 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:35:32 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 20:35:56 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:36:01 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:36:01 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:36:01 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:44:03 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:44:03 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:44:03 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:44:05 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 20:44:22 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[18-Nov-2017 20:44:36 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:44:42 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:44:42 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:44:42 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:44:44 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 20:49:31 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:49:35 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:49:42 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:49:42 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:49:42 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:49:44 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 20:49:55 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[18-Nov-2017 20:50:05 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:50:08 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:50:14 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:50:14 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:50:14 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:51:37 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:51:37 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:51:37 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:51:39 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 20:51:54 America/Denver] PHP Notice:  Undefined variable: row in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 34
+[18-Nov-2017 20:51:54 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[18-Nov-2017 20:53:12 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:53:14 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:53:16 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:53:16 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:53:16 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:53:17 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 20:53:28 America/Denver] PHP Notice:  Undefined variable: row in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 34
+[18-Nov-2017 20:53:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[18-Nov-2017 20:55:20 America/Denver] PHP Notice:  Undefined variable: row in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 34
+[18-Nov-2017 20:55:20 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[18-Nov-2017 20:55:30 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 20:55:37 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 20:55:37 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 20:55:37 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 21:04:49 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 21:04:49 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 21:04:49 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 21:04:51 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[18-Nov-2017 21:05:15 America/Denver] PHP Notice:  Undefined variable: row in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 34
+[18-Nov-2017 21:05:15 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[18-Nov-2017 21:05:21 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[18-Nov-2017 21:05:28 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[18-Nov-2017 21:05:28 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[18-Nov-2017 21:05:28 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:41:44 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 10:41:46 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 10:41:46 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:41:46 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:41:51 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[29-Nov-2017 10:44:56 America/Denver] PHP Notice:  Undefined variable: row in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 34
+[29-Nov-2017 10:44:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[29-Nov-2017 10:44:59 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 10:45:04 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 10:45:04 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:45:04 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:45:08 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 10:50:59 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 10:50:59 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:50:59 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:51:03 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 10:51:03 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:51:03 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:51:13 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 10:51:13 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 10:51:13 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:01:16 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 11:01:18 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 11:01:18 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:01:18 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:01:20 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[29-Nov-2017 11:01:29 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[29-Nov-2017 11:21:18 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 11:21:25 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 11:21:25 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:21:25 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:21:27 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[29-Nov-2017 11:21:41 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 11:21:50 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 11:21:51 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 11:21:51 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:21:51 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:21:52 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 66
+[29-Nov-2017 11:22:03 America/Denver] PHP Notice:  Undefined variable: row in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 34
+[29-Nov-2017 11:22:03 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 38
+[29-Nov-2017 11:22:07 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 11:22:12 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 11:22:12 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:22:12 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 11:24:22 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 16:41:18 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:29:15 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:29:21 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 17:29:21 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:29:21 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:29:24 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 70
+[29-Nov-2017 17:33:54 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:34:00 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 17:34:00 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:34:00 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:34:02 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 17:34:19 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 17:34:40 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 17:37:27 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 17:37:45 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:37:49 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 17:37:49 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:37:49 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:37:53 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 17:38:38 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:38:49 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 17:38:49 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:38:49 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:38:52 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:38:53 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:39:01 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 17:39:01 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:39:01 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:39:06 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 12
+[29-Nov-2017 17:39:06 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:39:06 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 13
+[29-Nov-2017 17:39:07 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 17:42:36 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 17:42:41 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:42:48 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 17:43:03 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 18:11:49 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 54
+[29-Nov-2017 18:13:38 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 18:14:15 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 14
+[29-Nov-2017 18:14:15 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 15
+[29-Nov-2017 18:14:15 America/Denver] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 15
+[29-Nov-2017 18:44:28 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 61
+[29-Nov-2017 18:45:16 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 15
+[29-Nov-2017 18:54:19 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 15
+[29-Nov-2017 18:58:21 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 67
+[29-Nov-2017 19:15:23 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 67
+[29-Nov-2017 19:15:55 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 67
+[29-Nov-2017 19:17:35 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 15
+[29-Nov-2017 19:32:40 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 15
+[29-Nov-2017 19:32:43 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 50
+[29-Nov-2017 19:32:48 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 15
+[30-Nov-2017 16:10:39 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 34
+[30-Nov-2017 16:10:39 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 34
+[30-Nov-2017 16:11:38 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:11:38 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:11:40 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:11:40 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:11:54 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 67
+[30-Nov-2017 16:12:42 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 67
+[30-Nov-2017 16:12:55 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 15
+[30-Nov-2017 16:15:24 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 17
+[30-Nov-2017 16:17:22 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 17
+[30-Nov-2017 16:17:51 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 17
+[30-Nov-2017 16:18:31 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 16
+[30-Nov-2017 16:18:43 America/Denver] PHP Notice:  Undefined index: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 16
+[30-Nov-2017 16:20:24 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:20:24 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:20:54 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:20:54 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:33:20 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:33:20 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:43:08 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:43:08 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:01 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:01 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:01 America/Denver] PHP Parse error:  syntax error, unexpected ''<a href="signup.php">Create A' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/site.navigation.php on line 9
+[30-Nov-2017 16:44:04 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:04 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:04 America/Denver] PHP Parse error:  syntax error, unexpected ''<a href="signup.php">Create A' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/site.navigation.php on line 9
+[30-Nov-2017 16:44:17 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:17 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:30 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:30 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 35
+[30-Nov-2017 16:44:46 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:44:46 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:44:46 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 49
+[30-Nov-2017 16:44:49 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:44:49 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:44:49 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 49
+[30-Nov-2017 16:44:50 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 67
+[30-Nov-2017 16:44:52 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:44:52 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:44:52 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 49
+[30-Nov-2017 16:44:54 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:44:54 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:44:54 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 49
+[30-Nov-2017 16:44:56 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 67
+[30-Nov-2017 16:45:16 America/Denver] PHP Notice:  Undefined variable: username in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:45:16 America/Denver] PHP Notice:  Undefined variable: password in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 33
+[30-Nov-2017 16:45:16 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/login.php on line 49
+[30-Nov-2017 16:45:18 America/Denver] PHP Notice:  Undefined variable: feedback in /home1/houseqc0/public_html/dgm3760/Unit07_Cookies/signup.php on line 67
