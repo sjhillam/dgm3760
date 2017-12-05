@@ -1,0 +1,153 @@
+/*--- Main Styles - styles.css ---*/
+
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;  
+}
+
+html {
+	-webkit-text-size-adjust: none; 
+}
+
+body {
+	margin: 0;
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+main {
+	margin: 50px 20px;
+}
+.container {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #04cc67;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #00B34E;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+hr {
+	height: 3px;
+	background: #04cc67;
+	border: 0;
+}
+
+/* button */
+
+.btn-primary {
+	padding: 0.5em;
+	font-size: 1em;
+	color: #04cc67;
+	background-color: #fff;
+	border: 3px solid #04cc67;
+	border-radius: 3px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.btn-primary:hover {
+	color: #fff;
+	background-color: #00B34E;
+	border: 3px solid #00B34E;	
+}
+
+/* Employee */
+
+.employee-row {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	margin-top:    10px;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #d6d6d6;
+}
+
+.employee-row-details {
+	margin-right: 20px;
+	padding-bottom: 5px;
+	color: #000;
+	text-decoration: none;
+}
+
+/*-- Form --*/
+
+fieldset {
+	margin: 30px 0;
+	padding: 1em;
+	border: 2px solid #323232;
+	border-radius: 0.4em;
+}
+
+legend {
+	padding: 0.5em;
+	font-size: 1.2em;
+	color: #fff;
+	border-radius: 2px;
+	background-color: #04cc67;
+}
+
+label {
+	display: block;
+}
+
+label input {
+	display: block;
+	width: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	padding: 5px;
+	border: 2px solid #323232;
+	border-radius: 3px;
+}
+
+input:focus {
+	box-shadow: 1px 1px 4px (0,0,0,0.5 inset);
+}
+
+input[type=submit] {
+	margin-top: 1em;
+	padding: 0.5em 3em;
+	font-size: 1em;
+	color: #04cc67;
+	background-color: #fff;
+	border: 3px solid #04cc67;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	color: #fff;
+	background-color: #00B34E;
+	border: 3px solid #00B34E;
+}
+
+.required {
+	color: #dd0031;
+}
